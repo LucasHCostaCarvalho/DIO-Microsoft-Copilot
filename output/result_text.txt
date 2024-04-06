@@ -1,0 +1,30 @@
+Claro! Vamos explorar os temas relevantes em **visão computacional** para 2024 e o que podemos esperar para 2025:
+
+1. **Gestão da Confiança, Risco e Segurança de IA (AI TRiSM)**:
+   - A confiança na IA é crucial para sua adoção generalizada. Empresas estão investindo em sistemas que garantam a segurança, privacidade e ética no uso da IA.
+   - Esperamos que haja um foco contínuo em desenvolver práticas responsáveis e regulamentações mais rigorosas para proteger os usuários e garantir a confiabilidade dos sistemas de visão computacional.
+
+2. **Ascensão dos Desenvolvedores**:
+   - A criatividade das comunidades de desenvolvedores é fundamental. Tecnologias adequadas ao setor e às necessidades específicas das organizações permitirão que não especialistas criem soluções.
+   - Antecipamos que a colaboração entre desenvolvedores e a democratização do acesso a ferramentas de visão computacional continuarão a impulsionar inovações.
+
+3. **Aplicações em Veículos Autônomos**:
+   - A visão computacional será fundamental para a condução autônoma, melhorando a detecção de obstáculos e a segurança nas estradas.
+   - Esperamos ver avanços significativos na integração de visão computacional com sistemas de veículos autônomos, tornando-os mais confiáveis e eficientes.
+
+Para 2025, prevemos:
+- **Avanços em Aprendizado Profundo**: A visão computacional continuará a se beneficiar dos avanços em redes neurais profundas e algoritmos de aprendizado de máquina.
+- **Integração com Realidade Estendida**: A fusão de visão computacional com realidade virtual, aumentada e mista abrirá novas possibilidades em áreas como entretenimento, treinamento e saúde.
+- **Privacidade e Ética**: A preocupação com a privacidade e o uso ético da visão computacional continuará a crescer, levando a regulamentações mais rigorosas e práticas responsáveis¹²³.
+
+Source: Conversation with Bing, 4/6/2024
+(1) Mercado de Visão Computacional- Tamanho, participação, crescimento e .... https://www.mordorintelligence.com/pt/industry-reports/computer-vision-market.
+(2) Departamento de Informática – PUC-Rio | Palestra A Decade in Computer .... https://bing.com/search?q=temas+relevantes+de+vis%c3%a3o+computacional+no+ano+de+2025.
+(3) Departamento de Informática – PUC-Rio | Palestra A Decade in Computer .... https://www.inf.puc-rio.br/blog/noticia/palestra-a-decade-in-computer-vision/.
+(4) Visão computacional IA: como fazer? | Engineering do Brasil. https://blog.engdb.com.br/visao-computacional-ia/.
+(5) Visão computacional: Avanços e Desafios em 2023. https://langly.ai/pt-br/nossas-novidades/vis%C3%A3o-computacional-avan%C3%A7os-e-desafios-em-2023/.
+(6) As 10 principais tendências tecnológicas estratégicas para 2024. https://www.gartner.com.br/pt-br/artigos/as-10-tendencias-tecnologicas-estrategicas-gartner-2024.
+(7) 5 principais tendências de TI para 2024 - FindUP. https://bing.com/search?q=temas+relevantes+de+vis%c3%a3o+computacional+no+ano+de+2024.
+(8) IA será tecnologia mais importante de 2024, mostra pesquisa. https://olhardigital.com.br/2023/11/12/pro/ia-sera-tecnologia-mais-importante-de-2024-mostra-pesquisa/.
+(9) As habilidades necessárias para profissionais de tecnologia em 2024. https://inforchannel.com.br/2024/01/09/as-habilidades-necessarias-para-profissionais-de-tecnologia-em-2024/.
+(10) 10 tendências tecnológicas para 2024, segundo a Gartner. https://epocanegocios.globo.com/tecnologia/noticia/2023/12/10-tendencias-tecnologicas-para-2024-segundo-a-gartner.ghtml.
